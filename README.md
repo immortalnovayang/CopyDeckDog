@@ -37,3 +37,12 @@ JDK 1.8
 勾選觀看數，就是下載觀看數最高的一副
 
 
+<span style="color:red">**注意**</span>
+
+1.除了EXE外，ConverseCardName.txt和jsoup-1.10.2.jar需要放在同目錄
+
+2.沒讀到ConverseCardName.txt檔案，牌組名會是日文
+
+3.此程式是會先連上抄牌網看一次上位列表，沒放jsoup-1.10.2.jar就無法上網抓列表資料
+
+
